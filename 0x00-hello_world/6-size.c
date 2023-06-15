@@ -11,13 +11,10 @@
 int main(void)
 {
 	printf("Size of char is=%d byte(s)\n", sizeof(char));
-	printf("Size of unsigned char is=%d byte(s)\n", sizeof(unsigned char));
-	printf("Size of short is=%d byte(s)\n", sizeof(short));
-	printf("Size of unsigned short is=%d byte(s)\n", sizeof(unsigned short));
 	printf("Size of int is=%d byte(s)\n", sizeof(int));
-	printf("Size of unsigned int is=%d byte(s)\n", sizeof(unsigned int));
-	printf("Size of long is=%d byte(s)\n", sizeof(long));
-	printf("Size of unsigned long is=%d byte(s)\n", sizeof(unsigned long));
-
+	printf("Size of long int is=%d byte(s)\n", sizeof(long int));
+	printf("Size of long long int is=%d byte(s)\n", sizeof(long long int));
+	printf("Size of float is=%d byte(s)\n", sizeof(float));
+	
 	return (0);
 }
