@@ -1,8 +1,12 @@
 #include <stdio.h>
 
-int main(void){
+int main(){
 
-	puts ("\"Programming is like building a multilingual puzzle")
+	// initializing strings
+	char str1[] ="\"Programming is like building a multilingual puzzle";
 
-	return (0);
+	// writing to stdout
+	puts(str1);
+	
+	return 0;
 }
