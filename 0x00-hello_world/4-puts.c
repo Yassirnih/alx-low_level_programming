@@ -5,8 +5,7 @@
  *
  * task - prints "Programming is like building a multilingual puzzle"
  *
- * return: 0 means always succesful
- *
+ * Return: return value is 0 which means always succesful
  */
 
 int main(void)
