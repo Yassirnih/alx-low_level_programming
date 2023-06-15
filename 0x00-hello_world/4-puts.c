@@ -5,7 +5,7 @@
  *
  * task - prints "Programming is like building a multilingual puzzle"
  *
- * return = 0 means always succesful
+ * return: 0 means always succesful
  *
  */
 
