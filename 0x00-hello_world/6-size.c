@@ -3,7 +3,7 @@
 /**
  * main - the main function
  *
- * task - prints "Programming is like building a multilingual puzzle"
+ * task - prints "prints the size of various types on the computer it is compiled and run on."
  *
  * Return: return value is 0 which means always succesful
  */

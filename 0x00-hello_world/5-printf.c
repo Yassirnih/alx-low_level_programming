@@ -3,7 +3,7 @@
 /**
  * main - the main function
  *
- * task - prints "Programming is like building a multilingual puzzle"
+ * task - prints "with proper grammar, but the outcome is a piece of art,"
  *
  * Return: return value is 0 which means always succesful
  */
