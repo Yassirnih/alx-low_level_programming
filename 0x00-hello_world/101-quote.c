@@ -3,7 +3,7 @@
 /**
  * main - the main function
  *
- * task - printing followed by a new line, to the standard error.
+ * task - printing followed by a new line.
  *
  * Return: return value is 1 which means always succesful
  */
