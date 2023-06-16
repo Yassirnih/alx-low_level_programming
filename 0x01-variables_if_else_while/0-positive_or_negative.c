@@ -3,11 +3,11 @@
 #include <stdio.h>
 
 /*
- * main = Entry point
+ * main - Entry point
  *
- * Task = Positive anything is better than negative nothing
+ * Task: Positive anything is better than negative nothing
  *
- * Return= 0 (succesful)
+ * Returni: 0 (succesful)
  */
 
 int main(void)
