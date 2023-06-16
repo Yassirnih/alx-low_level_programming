@@ -2,8 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 
-/*
- * main - Entry point
+/**
+ * main: Entry point
  *
  * Task: Positive anything is better than negative nothing
  *
