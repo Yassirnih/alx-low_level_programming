@@ -3,7 +3,7 @@
 /**
  * main - the main function
  *
- * task - prints "prints the size of various types on the computer it is compiled and run on."
+ * task - prints "prints the size of ..."
  *
  * Return: return value is 0 which means always succesful
  */
