@@ -3,9 +3,10 @@
 #include <stdio.h>
 
 /**
- * main: Entry point
  *
- * Task: Positive anything is better than negative nothing
+ * main - Entry point
+ *
+ * Description - Positive anything is better than negative nothing
  *
  * Return: 0 (succesful)
  */
