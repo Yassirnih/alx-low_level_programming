@@ -7,7 +7,7 @@
  *
  * Task: Positive anything is better than negative nothing
  *
- * Returni: 0 (succesful)
+ * Return: 0 (succesful)
  */
 
 int main(void)
