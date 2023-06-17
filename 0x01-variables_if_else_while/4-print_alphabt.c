@@ -14,11 +14,19 @@ int main(void)
 
 	for (alphabet = 'a' ; alphabet <= 'z' ; alphabet++)
 	{
-		if (alphabet == 'q' && alphabet == 'e')
+		if (alphabet == 'q')
 		{
-		alphabet++;
+			alphabet++;
 		}
-		putchar(alphabet);
+		else if (alphabet == 'e')
+		{
+			alphabet++;
+		}
+		else
+		{
+			putchar(alphabet);
+			alphabet++;
+		}
 	}
 	putchar('\n');
 
