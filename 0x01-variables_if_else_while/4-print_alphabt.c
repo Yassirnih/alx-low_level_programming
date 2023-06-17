@@ -22,11 +22,7 @@ int main(void)
 		{
 			alphabet++;
 		}
-		else
-		{
-			putchar(alphabet);
-			alphabet++;
-		}
+		putchar(alphabet);
 	}
 	putchar('\n');
 
