@@ -12,7 +12,8 @@ int main(void)
 {
 	int alphabet;
 
-	for (alphabet = 'a' ; alphabet <= 'z' ; alphabet++){
+	for (alphabet = 'a' ; alphabet <= 'z' ; alphabet++)
+	{
 		if (alphabet == 'q' && alphabet == 'e')
 		{
 			alphabet++;
