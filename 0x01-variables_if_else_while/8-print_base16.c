@@ -12,7 +12,7 @@ int main(void)
 {
 	int a = '0';
 
-	for (a = '0' ; a < 16 ; a++)
+	for (a = 0 ; a < 16 ; a++)
 	{
 		if (a < 10)
 		{
@@ -20,7 +20,7 @@ int main(void)
 		}
 		else
 		{
-			putchar (a - 10 + 'A');
+			putchar((a - 10) + 'A');
 		}
 	}
 	putchar('\n');
