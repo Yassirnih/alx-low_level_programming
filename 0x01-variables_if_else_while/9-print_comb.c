@@ -20,5 +20,6 @@ int main(void)
 	putchar(' ');
 	putchar('0' + number);
 	}
+	putchar('\n')
 	return (0);
 }
