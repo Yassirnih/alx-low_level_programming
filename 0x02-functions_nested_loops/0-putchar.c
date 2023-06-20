@@ -8,16 +8,12 @@
 
 int main(void)
 {
+	char str[] = "_putchar";
+	int alphabet;
 
-	putchar('_');
-	putchar('p');
-	putchar('u');
-	putchar('t');
-	putchar('c');
-	putchar('h');
-	putchar('a');
-	putchar('r');
-	putchar('\n');
+	for (alphabet = 0; alphabet < 8; alphabet++)
+		_putchar(str[alphabet]);
+	_putchar('\n');
 
 	return (0);
 }
