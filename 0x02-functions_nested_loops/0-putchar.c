@@ -3,9 +3,9 @@
 /**
  * main - Entry point
  *
- * description: putchar task
+ * description: putchar task "print _putchar"
  *
- * return: 0 (succesful)
+ * return: return value is 0 which means always succesful
  *
  */
 
