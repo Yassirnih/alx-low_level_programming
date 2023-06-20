@@ -3,7 +3,7 @@
 /**
  * _abs - variable
  * @num: getting abs
- * Return: -n the negative value and n the prositive
+ * Return: -num the negative value and num is the prositive
  */
 
 int _abs(int)
@@ -12,7 +12,7 @@ int _abs(int)
 
 	if (num <= 0)
 	{
-		return (-n);
+		return (-num);
 	}
-	return (n);
+	return (num);
 }
