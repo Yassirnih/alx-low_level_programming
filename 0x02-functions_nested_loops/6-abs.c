@@ -6,7 +6,7 @@
  * Return: -num the negative value and num is the prositive
  */
 
-int _abs(int)
+int _abs(int num)
 {
 	int num;
 
