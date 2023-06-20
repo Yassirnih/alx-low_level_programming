@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  * Description: putchar task "print _putchar"
- * return: return value is 0 which means always succesful
+ * Return: return value is 0 which means always succesful
  */
 
 int main(void)
