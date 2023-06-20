@@ -6,7 +6,7 @@
  * Return: return value is 0 which means always succesful
  */
 
-int main(void)
+int main(void);
 {
 	char str[] = "_putchar";
 	int alphabet;
