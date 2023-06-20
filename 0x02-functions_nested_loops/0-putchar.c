@@ -2,16 +2,13 @@
 
 /**
  * main - Entry point
- *
  * Description: putchar task "print _putchar"
- *
  * return: return value is 0 which means always succesful
- *
  */
 
 int main(void)
 {
-	
+
 	putchar('_');
 	putchar('p');
 	putchar('u');
