@@ -3,9 +3,10 @@
 /**
  * main - Entry point
  *
- * Description - putchar task
+ * description: putchar task
  *
  * return: 0 (succesful)
+ *
  */
 
 int main(void)
@@ -18,6 +19,7 @@ int main(void)
 	putchar('h');
 	putchar('a');
 	putchar('r');
+	putchar('\n');
 
 	return (0);
 }
