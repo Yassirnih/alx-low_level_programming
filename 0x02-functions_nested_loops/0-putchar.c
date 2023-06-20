@@ -3,13 +3,13 @@
 /**
  * main - Entry point
  *
- * description: putchar task "print _putchar"
+ * Description: putchar task "print _putchar"
  *
  * return: return value is 0 which means always succesful
  *
  */
 
-int main(void)
+int main()
 {
 	putchar('_');
 	putchar('p');
