@@ -1,10 +1,10 @@
-#include "main.h"
+#include"main.h"
 
 /**
- * print_numbers - priting numbers
+ * print_numbers - print from 0 to 9
  *
- * @num: input
- */
+ * Return: Always 0
+*/
 
 void print_numbers(void)
 {
