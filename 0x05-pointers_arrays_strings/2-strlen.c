@@ -4,7 +4,7 @@
  * _strlen - Entry point
  *
  * @s: input
- * return: a
+ * Return: a
  */
 
 int _strlen(char *s)
