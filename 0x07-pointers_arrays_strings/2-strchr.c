@@ -5,7 +5,7 @@
  *
  * @s: first input
  * @c: second input
- * Return: value of 0 
+ * Return: value of 0
  */
 
 char *_strchr(char *s, char c)
