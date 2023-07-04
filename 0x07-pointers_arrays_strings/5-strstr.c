@@ -4,7 +4,7 @@
  * _strstr - Entry point
  *
  * @haystack: first input
- * @nedle: second input
+ * @needle: second input
  *
  * Return: value 0
  */
