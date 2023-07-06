@@ -18,7 +18,7 @@ int is_prime_number(int n)
 }
 
 /**
- * actual_prime - Zntry point
+ * actual_prime - Entry point
  * 
  * @n: first input
  * @i: second input
