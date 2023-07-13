@@ -1,23 +1,21 @@
+#include <stdlib.h>
 #include "main.h"
 
 /**
- * malloc_checked - Entry point
+ * *malloc_checked - ENtry point
  * @b: input
- * Return: value of c
- **/
+ *
+ * Return: value of ptr
+ */
 
 void *malloc_checked(unsigned int b)
 {
-	void *c;
+	void *ptr;
 
-	if (b <= 0)
-	{
-		return;
-	}
-	c = (void *)malloc(b);
-	if (c = NULL)
-	{
-		return;
-	}
-	return (c);
+	ptr = malloc(b);
+
+	if (ptr == NULL)
+		exit(98);
+
+	return (ptr);
 }
