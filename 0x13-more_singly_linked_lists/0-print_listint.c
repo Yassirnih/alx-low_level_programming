@@ -1,7 +1,7 @@
 #include "lists.h"
 
 /**
- * listint_len - Entry point
+ * print_listint - Entry point
  * @h: input
  *
  * Return: value of num
